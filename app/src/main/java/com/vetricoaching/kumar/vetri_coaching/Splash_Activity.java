@@ -11,5 +11,7 @@ public class Splash_Activity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
 
         //test bitbucket
+
+
     }
 }
